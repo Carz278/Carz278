@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Carz278
+# Hi, I'm Carz / Carson
 
-**Linux · CTF · Reverse Engineering**
-
-I build lightweight tools for [Caelestia](https://github.com/caelestia-dots/caelestia).
+**Programmer · CTF Player**
 
 <br/>
 
@@ -15,18 +13,12 @@ I build lightweight tools for [Caelestia](https://github.com/caelestia-dots/cael
 
 ---
 
-## What I Build
+## About
 
-Small, focused tools for the Arch Linux + Hyprland ecosystem.
-
-- **[todo-tui](https://github.com/Carz278/todo-tui)** — A terminal todo list that replaces Caelestia's heavy Todoist integration.
-- **[clipboard-tui](https://github.com/Carz278/clipboard-tui)** — A clipboard history manager with a pin feature.
-
-Design principles:
-
-- **Lightweight** — no Electron, no Node.js, no background daemon.
-- **Native** — uses tools already present in Caelestia.
-- **Hackable** — plain Python/shell, easy to read and modify.
+- Main language: **Python**
+- Also comfortable with: **Bash**
+- Currently learning: **C, C++, Assembly**
+- CTF member of **Flagaholic** since late 2025
 
 ---
 
@@ -34,21 +26,33 @@ Design principles:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,arch,vim,git&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,arch,vim,git,blender&theme=dark" alt="Tech stack" />
 
 </div>
 
 ---
 
-## GitHub Activity
+## CTF
 
-<div align="center">
+| Category | Interest |
+|----------|----------|
+| OSINT | ★★★★★ |
+| Linux | ★★★★☆ |
+| Crypto | ★★★★☆ |
+| Forensics | ★★★★☆ |
+| Misc | ★★★★☆ |
+| Rev | ★★★☆☆ |
+| Pwn | ★★★☆☆ |
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carz278&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="150" />
+**Tools**: Cutter (Ghidra-based), VS Codium.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carz278&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="150" />
+---
 
-</div>
+## Interests
+
+- **Programming**: Python, Bash, learning C/C++/Assembly
+- **CTF**: OSINT, Linux, Crypto, Forensics, Misc
+- **3D**: Blender, Rhino (learned a bit before, currently on hold)
 
 ---
 
@@ -60,5 +64,5 @@ Design principles:
 ---
 
 <div align="center">
-<sub><i>Building small tools for a big desktop.</i></sub>
+<sub><i>sudo rm -rf / && echo "just kidding"</i></sub>
 </div>
