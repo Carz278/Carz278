@@ -15,9 +15,17 @@
 
 ## About
 
-- Main language: **Python**
-- Currently learning: **Bash, C, C++, Assembly**
+- English poor:>
+- HKer with ICT level 5 
 - CTF member of **Flagaholic** since late 2025
+
+---
+
+## Interests
+
+- **Programming**: main language is Python, but also interest in bash/C/C++/Assembly/
+- **CTF**: OSINT, Linux, Crypto, Forensics, Misc
+- **3D**: Blender, Rhino (learned a bit before, currently on hold)
 
 ---
 
@@ -25,33 +33,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,arch&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,arch,linux,git,blender&theme=dark" alt="Tech stack" />
 
 </div>
 
 ---
 
-## CTF
-
-| Category | Interest |
-|----------|----------|
-| OSINT | ★★★★★ |
-| Linux | ★★★★☆ |
-| Misc | ★★★★☆ |
-| Forensics | ★★★★☆ |
-| Crypto | ★★★☆☆ |
-| Rev | ★★☆☆☆ |
-| Pwn | ★★☆☆☆ |
-
-**Tools**: VS Codium, Wireshark, Cutter (Ghidra-based).
-
----
-
-## Interests
-
-- **Programming**: Python
-- **CTF**: OSINT, Linux, Crypto, Forensics, Misc
-- **3D**: Blender, Rhino (learned a bit before, currently on hold)
+**CTF Tools**: 
+![VS Codium](https://img.shields.io/badge/VS%20Codium-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Cutter](https://img.shields.io/badge/Cutter-000000?style=flat-square&logo=ghidra&logoColor=red)
 
 ---
 
