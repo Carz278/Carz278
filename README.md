@@ -4,6 +4,10 @@
 
 <br/>
 
+<a href="https://github.com/Carz278"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1100&color=7AA2F7&center=true&vCenter=true&width=800&height=85&lines=Junior+Programmer+%E2%80%A2+CTF+Player;Flagaholic+since+2025;I+use+Arch+btw" alt="Carz" /></a>
+
+<br/>
+
 <a href="https://github.com/Carz278"><img src="https://img.shields.io/badge/GitHub-Carz278-0e75b6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub" /></a>
 <a href="mailto:c.c.vvow22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
 
@@ -11,18 +15,27 @@
 
 ## About Me
 
-- English poor:>
-- HKer with ICT level 5 
-- CTF member of **Flagaholic** since late 2025
+- HKer
 - Nickname: Carz, Carson
+- CTF member of **Flagaholic** since late 2025
+- English is not my first language, but I try my best.
 
 ---
 
 ## Interests
 
-- **Programming**: main language is Python, but also interest in bash/C/C++/Assembly/
-- **CTF**: OSINT, Linux, Crypto, Forensics, Misc
+- **Programming**: Mainly use Python
+- **CTF**: OSINT, Misc, Forensics, Linux, Crypto
 - **3D**: Blender, Rhino (learned a bit before, currently on hold)
+
+---
+
+
+## Want to learn
+
+- **Programming**: C, C++, Rust, Bash, MongoDB, Assembly, Java, JavaScript...
+- **CTF**: Pyjail, Rev, Pwn ...
+- **3D**: Blender
 
 ---
 
@@ -30,17 +43,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,arch,linux,git,blender&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,arch,linux,git,blender&theme=dark" alt="Tech stack" />
 
 </div>
 
 ---
 
 ## CTF Tools 
-![VS Codium](https://img.shields.io/badge/VS%20Codium-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cutter](https://img.shields.io/badge/Cutter-000000?style=flat-square&logo=ghidra&logoColor=red)
+
+<div align="center">
+
+![VS Codium](https://img.shields.io/badge/VS%20Codium-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-8b0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=8b0000)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1679A7)
+![Cutter](https://img.shields.io/badge/Cutter-000000?style=for-the-badge&logo=ghidra&logoColor=red&labelColor=000000)
+
+</div>
 
 ---
 
