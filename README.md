@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,bash,arch&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,arch&theme=dark" alt="Tech stack" />
 
 </div>
 
@@ -43,13 +43,13 @@
 | Rev | ★★☆☆☆ |
 | Pwn | ★★☆☆☆ |
 
-**Tools**: VS Codium, Cutter (Ghidra-based).
+**Tools**: VS Codium, Wireshark, Cutter (Ghidra-based).
 
 ---
 
 ## Interests
 
-- **Programming**: Python, Bash, want to learn C/C++/Assembly
+- **Programming**: Python
 - **CTF**: OSINT, Linux, Crypto, Forensics, Misc
 - **3D**: Blender, Rhino (learned a bit before, currently on hold)
 
@@ -63,5 +63,5 @@
 ---
 
 <div align="center">
-<sub><i>:)</i></sub>
+<sub><i>I use Arch btw</i></sub>
 </div>
