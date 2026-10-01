@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python, c, bash, arch&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,c,bash,arch&theme=dark" alt="Tech stack" />
 
 </div>
 
