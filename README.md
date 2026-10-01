@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/Carz278"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1100&color=7AA2F7&center=true&vCenter=true&width=800&height=85&lines=Junior+Programmer+%E2%80%A2+CTF+Player;Flagaholic+since+2025;I+use+Arch+btw" alt="Carz" /></a>
+<a href="https://github.com/Carz278"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=Junior+Programmer+%E2%80%A2+CTF+Player;Flagaholic+since+2025;I+use+Arch+btw" alt="Carz" /></a>
 
 <br/>
 
