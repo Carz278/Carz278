@@ -2,7 +2,7 @@
 
 # Hi, I'm Carz / Carson
 
-**Programmer · CTF Player**
+**Junior Programmer · CTF Player**
 
 <br/>
 
@@ -16,8 +16,7 @@
 ## About
 
 - Main language: **Python**
-- Also comfortable with: **Bash**
-- Currently learning: **C, C++, Assembly**
+- Currently learning: **Bash, C, C++, Assembly**
 - CTF member of **Flagaholic** since late 2025
 
 ---
@@ -26,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,arch,vim,git,blender&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python, c, bash, arch&theme=dark" alt="Tech stack" />
 
 </div>
 
@@ -38,19 +37,19 @@
 |----------|----------|
 | OSINT | ★★★★★ |
 | Linux | ★★★★☆ |
-| Crypto | ★★★★☆ |
-| Forensics | ★★★★☆ |
 | Misc | ★★★★☆ |
-| Rev | ★★★☆☆ |
-| Pwn | ★★★☆☆ |
+| Forensics | ★★★★☆ |
+| Crypto | ★★★☆☆ |
+| Rev | ★★☆☆☆ |
+| Pwn | ★★☆☆☆ |
 
-**Tools**: Cutter (Ghidra-based), VS Codium.
+**Tools**: VS Codium, Cutter (Ghidra-based).
 
 ---
 
 ## Interests
 
-- **Programming**: Python, Bash, learning C/C++/Assembly
+- **Programming**: Python, Bash, want to learn C/C++/Assembly
 - **CTF**: OSINT, Linux, Crypto, Forensics, Misc
 - **3D**: Blender, Rhino (learned a bit before, currently on hold)
 
@@ -64,5 +63,5 @@
 ---
 
 <div align="center">
-<sub><i>sudo rm -rf / && echo "just kidding"</i></sub>
+<sub><i>:)</i></sub>
 </div>
