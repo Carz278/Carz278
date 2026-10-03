@@ -18,7 +18,6 @@
 - HKer
 - Nickname: Carz, Carson
 - CTF member of **Flagaholic** since late 2025
-- English is not my first language, but I try my best.
 
 ---
 
